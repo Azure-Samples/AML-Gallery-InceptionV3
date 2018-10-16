@@ -1,57 +1,19 @@
-# Project Name
+Get the full documentation for Azure Machine Learning service at:
 
-(short, 1-3 sentenced, description of the project)
+https://docs.microsoft.com/azure/machine-learning/service/
 
-## Features
+<br>
 
-This project framework provides the following features:
+# InceptionV3 Model in Azure AI Gallery
 
-* Feature 1
-* Feature 2
-* ...
+1. [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/gogowings/AML-Gallery-InceptionV3)
+[Import sample notebooks ](https://notebooks.azure.com/import/gh/gogowings/AML-Gallery-InceptionV3) into Azure Notebooks.
 
-## Getting Started
+2. First try the example [00.configuration](00.configuration.ipynb) to create your workspace. 
+3. Then [01.deploy-inception-model](01.deploy-inception-model) to deploy inception v3 model to a web service and try out the inference.
 
-### Prerequisites
+See also:
+ * [Azure/MachineLearningNotebooks GitHub site](https://github.com/Azure/MachineLearningNotebooks)
+ * [Azure Machine Learning service documentation](https://docs.microsoft.com/en-us/azure/machine-learning/service)
 
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gogowings/AML-Gallery-InceptionV3/master)
